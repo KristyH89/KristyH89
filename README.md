@@ -18,7 +18,7 @@ I’m actively developing my Fullstack abilities. Current focus includes:
 
 > This is an ongoing learning journey, with weekly exercises and projects designed to grow my technical expertise.
 
-
+<br>
 💡 Fun fact: I enjoy making processes more efficient, helping people, and keeping a sense of humor at work! Positive attitude & humor – Keep the team motivated and energized
 
 
