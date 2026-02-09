@@ -38,6 +38,9 @@ I’m actively developing my Fullstack abilities. Current focus includes:
 
 💡 Fun fact: I enjoy making processes more efficient, helping people, and keeping a sense of humor at work! Positive attitude & humor – Keep the team motivated and energized
 
+
+![Kristys GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=KristyH89&theme=neon&show_icons=true)
+
 <!--
 **KristyH89/KristyH89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
